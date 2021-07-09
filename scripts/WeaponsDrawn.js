@@ -3,8 +3,8 @@
  * Software License: Creative Commons Attributions International License
  */
 
-import { registerSettings } from "./module/settings.js";
-import { preloadTemplates } from "./module/preloadTemplates.js";
+import { registerSettings } from "./module/settings.js.js";
+import { preloadTemplates } from "./module/preloadTemplates.js.js";
 
 const defaultIcon = "icons/svg/mystery-man.svg";
 
