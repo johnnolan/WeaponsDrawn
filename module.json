@@ -14,8 +14,11 @@
       "url": "https://github.com/johnnolan"
     }
   ],
+  "conflicts": [],
   "esmodules": ["scripts/WeaponsDrawn.js"],
+  "languages": [],
   "styles": [],
+  "scripts": [],
   "socket": false,
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
