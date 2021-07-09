@@ -1,8 +1,19 @@
-![](https://img.shields.io/badge/Foundry-v0.7.9-blue) ![](https://img.shields.io/badge/D&D5e-v1.2.2-blue)
+![](https://img.shields.io/badge/Foundry-v0.8.8-informational)
+![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/WeaponsDrawn/latest/module.zip)
 
 # Weapons Drawn
 
 A visual utility plugin, which allows characters to have a secondary token image which is automatically swapped to when in combat.
+
+## !!! THIS IS A FORKED VERSION OF THE EXCELLENT WORK DONE BY VanirDev !!!
+
+This is for personal use and is not supported for others at the moment. I do not want to release this and promote it as that would be disrepectful to the original developer.
+
+When/if they decide to update their code base I shall archive this one.
+
+If you do wish to use this, you can install it by adding the following install file to get the latest version.
+
+[https://github.com/johnnolan/WeaponsDrawn/releases/latest/download/module.json](https://github.com/johnnolan/WeaponsDrawn/releases/latest/download/module.json)
 
 ## Update Changelogs
 
